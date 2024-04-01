@@ -106,5 +106,6 @@ def main():
 
     show_matrix()
 
+    input("Drücke Enter, um das Programm zu beenden.")
 
 main()
